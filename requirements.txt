@@ -1,0 +1,5 @@
+selenium
+beautifulsoup4
+webdriver_manager
+python-dotenv
+faiss-cpu
